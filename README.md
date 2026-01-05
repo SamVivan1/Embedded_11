@@ -1,9 +1,3 @@
-Siap 👍
-Berikut **README lengkap, rapi, dan profesional** untuk **kode akhir game rapa’i** kamu.
-Format **Markdown**, siap langsung kamu taruh di `README.md`.
-
----
-
 # 🎶 Game Irama Rapa’i Berbasis Arduino + LCD I2C
 
 ## 📌 Deskripsi Proyek
@@ -161,12 +155,6 @@ THRESHOLD_TAK ≈ 60–70% TAK max
 
 ---
 
-## 📜 Lisensi
-
-Proyek ini bebas digunakan untuk **edukasi, eksperimen, dan pengembangan pribadi**.
-
----
-
 ## ✨ Penutup
 
 Proyek ini menggabungkan:
@@ -175,14 +163,3 @@ Proyek ini menggabungkan:
 * **Signal processing dasar**
 * **Game logic**
 * **Pelestarian musik tradisional**
-
-🔥 Cocok untuk tugas kuliah, pameran, maupun riset awal interaksi musik & teknologi.
-
-Kalau kamu mau, aku juga bisa:
-
-* Buat **diagram blok**
-* Flowchart
-* Versi laporan akademik
-* Atau naikkan jadi **final project**
-
-Tinggal bilang aja 👌🥁
