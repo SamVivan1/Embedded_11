@@ -2,7 +2,7 @@
 
 ## 📌 Deskripsi Proyek
 
-Proyek ini adalah **game irama (rhythm game)** sederhana menggunakan **sensor suara (microphone module)** yang dirancang khusus untuk **alat musik tradisional rapa’i**.
+Proyek ini adalah **game irama (rhythm game)** sederhana menggunakan **sensor suara** yang dirancang khusus untuk **alat musik tradisional rapa’i**.
 
 Pemain harus memukul rapa’i mengikuti **pola DUM dan TAK** yang ditampilkan di LCD.
 Setiap pukulan yang benar akan mengubah **titik (target)** menjadi **blok**, sedangkan pukulan salah **diabaikan** (tidak reset, tidak ada penalti visual).
